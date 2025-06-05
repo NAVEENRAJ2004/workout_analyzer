@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437315729840",
+    "project_id": "workout-analyzer-dd17a",
+    "storage_bucket": "workout-analyzer-dd17a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437315729840:android:46fef8a4339d616795fe75",
+        "android_client_info": {
+          "package_name": "com.example.workout_analyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDpwksHf65K1DrcY7vApXKFy_iCnGtazw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
