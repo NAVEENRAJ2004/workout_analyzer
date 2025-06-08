@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:workout_analyzer/config/firebase_options.dart';
 import 'package:workout_analyzer/screens/navigation/main_navigation_screen.dart';
 import 'package:workout_analyzer/screens/auth/login_screen.dart';
-import 'firebase_options.dart';
+import 'config/firebase_options.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
