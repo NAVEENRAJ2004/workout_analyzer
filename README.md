@@ -2,8 +2,6 @@
     
 ## Workout Analyzer is a A fully functional flutter project which detects the human workout pose and returns name of the pose and points of the analysis in a JSON format!
 
-This project is a part of the interview process at SMARTAN FITTECH PRIVATE LIMITED for the role of flutter developer intern given as an assignment task > "Flutter App for MediaPipe Pose Analysis with Local & Cloud Sync". 
-
 ---
 
 ## Features
